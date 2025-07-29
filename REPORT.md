@@ -1,4 +1,4 @@
-```markdown
+
 # SQL Injection Detection, Exploitation, and Patching Project
 
 **Author:** Sean Johnson  
