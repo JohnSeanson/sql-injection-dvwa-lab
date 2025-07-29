@@ -22,8 +22,8 @@ This project simulates a real-world web application attack and defense lifecycle
 
 | Stage | Preview |
 |-------|---------|
-| Manual SQL Injection | ![Login Bypass Screenshot](assets\login_bypass.png.png) |
-| sqlmap Data Dump | ![sqlmap output](assets\sqlmap-output.png.png)) |
+| Manual SQL Injection | ![Login Bypass Screenshot](assets/login_bypass.png.png) |
+| sqlmap Data Dump | ![sqlmap output](assets/sqlmap-output.png.png)) |
 
 ---
 
