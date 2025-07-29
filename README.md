@@ -22,8 +22,8 @@ This project simulates a real-world web application attack and defense lifecycle
 
 | Stage | Preview |
 |-------|---------|
-| Manual SQL Injection | ![Browser Injection](assets/sql-inject-browser.png) |
-| sqlmap Data Dump | ![sqlmap output](assets/sqlmap-output.png) |
+| Manual SQL Injection | ![Browser Injection](Screenshot From 2025-07-28 13-29-22.png) |
+| sqlmap Data Dump | ![sqlmap output](Screenshot From 2025-07-28 15-20-08.png) |
 
 ---
 
